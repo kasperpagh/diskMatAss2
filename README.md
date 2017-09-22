@@ -48,7 +48,7 @@ R = 24 ;
 Louise kan altså se at hun "desværre" skal til tandlæge næste onsdag!
 
 
-###---------------------------------------------------------
+### ---------------------------------------------------------
 
 Programmet kan udover ovenstående ting, også tilspørges om følgende: 
 ``` 
