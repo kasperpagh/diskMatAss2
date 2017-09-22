@@ -2,13 +2,10 @@
 ## Aflevering af diskret matematik, aflevering 2
 
 Bemærk der er to .pl filer i dette repo. 
-
-as.pl er en student/time/class/room opgave (som forslået i opgavebeskrivelsen) og wow.pl 
-
+_as.pl_ er en student/time/class/room opgave (som forslået i opgavebeskrivelsen) og *wow.pl* 
 er et sammensurium af ligegyldige oplysninger vedrørende world of warcraft (forfattet af David og Alexandar). 
 
-Vi har valgt at lave et student skema program.
-
+#### Her følger dokumentation af skole programmet
 Det kan spørges om forskellige ting, men vi har samlet alle 
 relevante spørgsmål i funktionen school.
 
