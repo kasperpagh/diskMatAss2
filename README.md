@@ -1,7 +1,9 @@
 # diskMatAss2
 ## Aflevering af diskret matematik, aflevering 2
 
-
+Bemærk der er to .pl filer i dette repo. 
+as.pl er en student/time/class/room opgave (som forslået i opgavebeskrivelsen) og wow.pl 
+er et sammensurium af lige gyldige oplysninger vedrørende world of warcraft (forfattet af David og Alexandar). 
 Vi har valgt at lave et student skema program.
 Det kan spørges om forskellige ting, men vi har samlet alle 
 relevante spørgsmål i funktionen school.
