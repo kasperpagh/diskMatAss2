@@ -4,7 +4,7 @@
 
 Vi har valgt at lave et student skema program.
 Det kan spørges om forskellige ting, men vi har samlet alle 
-relevante spørgsmål i funktion school.
+relevante spørgsmål i funktionen school.
 
 
 
