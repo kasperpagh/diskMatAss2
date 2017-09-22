@@ -9,10 +9,10 @@ relevante spørgsmål i funktionen school.
 
 
 school tager fire argumenter: Day, Class, Room og Student, der kan tage følgende værdier.
-Day: alle uge dage fra monday til friday.
-Class: danish, physics, gymnastics og chemistry.
-Room: 101, 404, gym og 24.
-Student: john, benedict, louise og david.
+###### Day: alle uge dage fra monday til friday.
+###### Class: danish, physics, gymnastics og chemistry.
+###### Room: 101, 404, gym og 24.
+###### Student: john, benedict, louise og david.
 Her følger er par eksempel på brugen af school:
 
 ### John vil gerne vide hvilke timer han har mandag:
